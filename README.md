@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @adrivn
-- 👀 I’m interested in finance, real estate, data science, and the intersection between the three.
+- 👀 My thing is all things data: science, analysis and engineering, particularly when it comes to finance or real estate.
 
-### My languages:
-
-Python, PostgreSQL, Golang, TypeScript
+### I speak
+Python, SQL (mostly Postgres, but lately a lot of DuckDB), Golang and TypeScript
 ### My everyday tools:
-Excel, Pandas, Polars, Git, Jupyter, VSCode + Neovim
+Excel, Polars (RIP Pandas), SQL, Git, Neovim, VSCode + Jupyter Notebooks
